@@ -25,6 +25,6 @@ console.log(aData.length);
 // Arrow function:
 // const foo4 = () => {};
 
-const aLength = (aData) => {};
+// const aLength = (aData) => {};
 
-const aPush = (aData, algo) => {};
+// const aPush = (aData, algo) => {};
