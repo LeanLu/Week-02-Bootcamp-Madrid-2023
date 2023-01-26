@@ -1,6 +1,4 @@
 /* eslint-disable capitalized-comments */
-/* eslint-disable no-new-object */
-/* eslint-disable no-unused-vars */
 
 // const obj = {};
 // const obj = new Object;   --> Al colocar las llaves vacías, se llama al constructor de objectos "new Object"
