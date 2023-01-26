@@ -4,7 +4,7 @@ console.log(aData);
 console.log(aData.length);
 
 // Métodos del Array:
-aData.indexOf(4);
+// aData.indexOf(4);
 
 /* Le puedo agregar una propiedad en cualquier posición y quedan las intermedias vacías.
 aData[35] = 12;
@@ -25,6 +25,8 @@ console.log(aData.length);
 // Arrow function:
 // const foo4 = () => {};
 
+// Ejemplo de función para Array con un parámetro
 // const aLength = (aData) => {};
 
+// Ejemplo de función para Array con dos parámetros
 // const aPush = (aData, algo) => {};
