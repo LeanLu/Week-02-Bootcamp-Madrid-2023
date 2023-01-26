@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest --watchAll --coverage",
-    "test-prod": "jest --watchAll --coverage --watchAll=false",
+    "test:prod": "jest --watchAll --coverage --watchAll=false",
     "sass": "sass sass:css --watch",
     "prepare": "husky install"
   },
