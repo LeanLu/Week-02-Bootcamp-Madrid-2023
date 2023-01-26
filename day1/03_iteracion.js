@@ -48,6 +48,7 @@ console.log(typeof foo);
 foo = {};
 console.log(typeof foo);
 
+/* Ejemplo
 function bar(p) {
   // Parámetro p
   let z;
@@ -55,6 +56,7 @@ function bar(p) {
 
 const x = 3;
 bar(x); // Argumento X
+*/
 
 /* TypeError: Trato de valor primitivo como objeto.
 let answer = true;

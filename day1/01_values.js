@@ -21,5 +21,7 @@ console.log(/a/i, typeof /a/i); // Se llaman expresiones regulares.
 // Functions:
 console.log(() => {}, typeof (() => {}));
 
+/* Ejemplos:
 [].map();
 'pepe'.toUpperCase();
+*/
