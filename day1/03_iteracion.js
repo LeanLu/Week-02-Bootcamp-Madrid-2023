@@ -48,14 +48,14 @@ console.log(typeof foo);
 foo = {};
 console.log(typeof foo);
 
-/* Ejemplo
-function bar(p) {
-  // Parámetro p
-  let z;
-}
+/* Ejemplo de funciones:
+Ejemplo:  function bar(p) {
+          // Parámetro p
+Ejemplo:  let z;
+Ejemplo:  }
 
-const x = 3;
-bar(x); // Argumento X
+Ejemplo:  const x = 3;
+Ejemplo:  bar(x); // Argumento X
 */
 
 /* TypeError: Trato de valor primitivo como objeto.
