@@ -1,5 +1,5 @@
 import { strictEquals } from './equals';
-import { testCases } from './test.cases';
+import { testCases } from './testCases';
 
 /* Ejemplo de test caso a caso:
 describe('Given strictEquals', () => {
